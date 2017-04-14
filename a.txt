@@ -1,0 +1,2 @@
+pamp 1
+pamp 2
